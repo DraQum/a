@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+
+    <head>
+     <title>А.</title>
+     <style type="text/css">
+     p {
+     	font-size: 180%; 
+     	font-family: Verdana, Arial, Helvetica, sans-serif; 
+    	color: #333366;
+    }
+    h1 {
+    	font-size: 300%;
+    	font-family: Verdana, Arial, Helvetica, sans-serif;
+    	color: #000000;
+    }
+    h2 {
+    	font-size: 300%;
+    	font-family: Verdana, Arial, Helvetica, sans-serif;
+    	color: #000000;
+    }
+    h3 {
+    	font-size: 80%;
+    	font-family: Verdana, Arial, Helvetica, sans-serif;
+    	color: #000000;
+    }
+
+     </style>
+     <body bgcolor="#c0c0c0">	
+    </head>
+
+    <body>
+     <h1>Пянтиум Или Ай 7</h1>
+     <p>Вопрос века.</p>
+     <img src="C:\\Users\IT-Квантум\9hq.jfif" weight=500>
+     <img src="C:\\Users\IT-Квантум\images.jfif" weight=1000>
+     <p>В принципе тут всё очевидно.</p>
+     <h2>Вот вам парочка пруфов:</h2>
+     <p>2x выше скорость центрального процессора?</p>
+	 <p>4 x 3.5GHzvs2 x 3.5GHz</p>
+	 <p>4 больше потоков центрального процессора?</p>
+	 <p>8vs4</p>
+	 <p>0.5MB больше L2 кэш?</p>
+	 <p>1MBvs0.5MB</p>
+	 <p>38.51% выше результат PassMark?</p>
+	 <p>7042vs5084</p>
+	 <p>5MB больше кэш L3?</p>
+	 <p>8MBvs3MB</p>
+	 <p>128KB больше L1 кэш?</p>
+	 <p>256KBvs128KB</p>
+	 <p>7.4% выше результат PassMark (одиночный)?</p>
+	 <p>2148vs2000</p>
+	 <h3>Надеюсь никто не заметил что тут указано что Ай 7 лучше...</h3>
+	 <p>Вот и всё, я пруфанул что Пентиум лучше(не бейте)</p>8
+    </body>
+
+</html>
