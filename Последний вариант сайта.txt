@@ -1,0 +1,415 @@
+<!DOCTYPE html>
+<html>
+
+    <head>
+     <meta charset="utf-8">
+     <title>ВСЕ КОМАНДЫ В CS:GO</title>
+     <style type="text/css">
+    p {
+     	font-size: 120%; 
+     	font-family: Verdana, Arial, Helvetica, sans-serif; 
+    	color: #FFFFFF;
+    }
+    h1 {
+    	font-size: 300%;
+    	font-family: Verdana, Arial, Helvetica, sans-serif;
+    	color: #8B0000;
+    }
+    h2 {
+        font-size: 300%;
+        font-family: Verdana, Arial, Helvetica, sans-serif;
+        color: #8B0000;
+    }
+    h3 {
+        font-size: 190%;
+        font-family: Verdana, Arial, Helvetica, sans-serif;
+        color: #8B0000;
+    }
+    h4 {
+        font-size: 50%;
+        font-family: Verdana, Arial, Helvetica, sans-serif;
+        color: #8B0000;
+    }
+    h5 {
+        font-size: 200%;
+        font-family: Verdana, Arial, Helvetica, sans-serif;
+        color: #8B0000;
+    }
+    .scale {
+        transition: 1s;
+        text-decoration: none;
+        border-radius: 3px;
+        border: solid white;
+    }
+    .scale:hover {
+        transform: scale(1.5);
+    }
+    body {
+        background:url(https://clipart-db.ru/file_content/rastr/background_003.jpg) no-repeat;
+        background-attachment: fixed;
+    }
+    .button1 {
+    display: inline-block; 
+    background: #000000; 
+    color: #ffffff;
+    padding: 1rem 1.5rem;
+    text-decoration: none;
+    border-radius: 3px;
+    border: solid white;
+    }
+    .button2 {
+    display: inline-block; 
+    background: #000000; 
+    color: #ffffff;
+    padding: 1rem 1.5rem;
+    text-decoration: none;
+    border-radius: 3px;
+    border: solid white;
+    }
+    .button3 {
+    display: inline-block; 
+    background: #000000; 
+    color: #ffffff;
+    padding: 1rem 1.5rem;
+    text-decoration: none;
+    border-radius: 3px;
+    border: solid white;
+    }
+    .button4 {
+    display: inline-block; 
+    background: #000000; 
+    color: #ffffff;
+    padding: 1rem 1.5rem;
+    text-decoration: none;
+    border-radius: 3px;
+    border: solid white;
+    }
+    .button5 {
+    display: inline-block; 
+    background: #000000; 
+    color: #ffffff;
+    padding: 1rem 1.5rem;
+    text-decoration: none;
+    border-radius: 3px;
+    border: solid white;
+    }
+    .button6 {
+    display: inline-block; 
+    background: #000000; 
+    color: #ffffff;
+    padding: 1rem 1.5rem;
+    text-decoration: none;
+    border-radius: 3px;
+    border: solid white;
+    }
+    .button7 {
+    display: inline-block; 
+    background: #000000; 
+    color: #ffffff;
+    padding: 1rem 1.5rem;
+    text-decoration: none;
+    border-radius: 3px;
+    border: solid white;
+    }
+    .button8 {
+    display: inline-block; 
+    background: #000000; 
+    color: #ffffff;
+    padding: 1rem 1.5rem;
+    text-decoration: none;
+    border-radius: 3px;
+    border: solid white;
+    }
+     </style>
+      
+    </head>
+
+    <body>
+     <form>
+     <h1 align="center"><a name="top"></a>Все команды в Cs:Go</h1>
+     <p align="center">Здравствуйте.Сегодня мне бы хотелось рассказать вам о некоторых командах. Приступим!</p>
+     <h5 align="center"><a href="#abc" class="button1">"Боты&#8659;"</a></h5>
+     <h5 align="center"><a href="#abcd" class="button2">"Оружие&#8659;"</a></h5>
+     <h5 align="center"><a href="#abcde" class="button3">"Пропы&#8659;"</a></h5>
+     <h5 align="center"><a href="#abcdef" class="button4">"Голос и звук&#8659;"</a></h5>
+     <h5 align="center"><a href="#abcdefg" class="button5">"Параметры запуска&#8659;"</a></h5>
+     <h5 align="center"><a href="#abcdefgh" class="button6">"Прицел&#8659;"</a></h5>
+     <h5 align="center"><a href="#abcdefghj" class="button7">"Фан&#8659;"</a></h5>
+     <p align="center"><img src="C:\\Users\IT-Квантум\My\Console.jpg" weight="600" height="600" alt=""class="scale"></p>
+     <h2 align="center"><a name="abc">Боты(sv_cheats 1)</h2>
+     <h5 align="center"><a href="#top" class="button8">"Наверх&#8657;"</a></h5>
+     <p align="center"><img src="C:\\Users\IT-Квантум\My\Death_Of_Bots.jpg" weight="600" height="600" alt=""class="scale"></p>
+     <p align="center">bot_kick — выгоняет всех ботов с карты</p>
+     <p align="center">bot_add_ct — добавляет бота к команде спецназа</p>
+     <p align="center">bot_add_t — добавляет бота к команде террористов</p>
+     <p align="center">bot_take_control — взять бота под свой контроль</p>
+     <p align="center">bot_zombie 0 — боты не атакуют вас</p>
+     <p align="center">bot_kill — убить всех ботов на карте</p>
+     <p align="center">bot_knives_only — боты используют только ножи</p>
+     <p align="center">bot_pistols_only — боты используют только пистолеты</p>
+     <p align="center">bot_snipers_only — боты используют только снайперские винтовки</p>
+     <p align="center">bot_all_weapons — боты используют всё оружие</p>
+     <p align="center">bot_stop 1 — все боты на карте стоят на месте</p>
+     <p align="center">bot_stop 0 — боты начинают двигаться.</p>
+     <h2 align="center"><a name="abcd">Оружие(sv_cheats 1)</h2>
+     <h5 align="center"><a href="#top" class="button8">"Наверх&#8657;"</a></h5>
+     <p align="center"><img src="C:\\Users\IT-Квантум\My\Guns.png" weight="600" height="600" alt=""class="scale"></p>
+     <h3 align="center">Снайперские винтовки и автоматы с оптикой</h3>
+     <p align="center">give weapon_awp — выдача снайперской винтовки AWP</p>
+     <p align="center">give weapon_ssg08 — выдача снайперской винтовки SSG 08</p>
+     <p align="center">give weapon_scar20 — выдача полуавтоматической снайперской винтовки SCAR-20</p>
+     <h3 align="center">Автоматы</h3>
+     <p align="center">give weapon_ak47 — выдача автомата AK-47</p>
+     <p align="center">give weapon_m4a1_silencer — выдача бесшумного карабина M4A1-S</p>
+     <p align="center">give weapon_m4a1 — выдача автомата M4A4</p>
+     <p align="center">give weapon_famas — выдача автомата FAMAS</p>
+     <p align="center">give weapon_galilar — выдача автомата Galil AR</p>
+     <p align="center">give weapon_sg553 — выдача винтовки с оптическим прицелом SG 553</p>
+     <p align="center">give weapon_aug — выдача винтовки с оптическим прицелом AUG</p>
+     <h3 align="center">Пистолеты</h3>
+     <p align="center">give weapon_elite — выдача двух пистолетов Dual Berettas</p>
+     <p align="center">give weapon_usp_silencer — выдача пистолета USP-S</p>
+     <p align="center">give weapon_hkp2000 — выдача пистолета P2000</p>
+     <p align="center">give weapon_fiveseven — выдача пистолета Five-SeveN</p>
+     <p align="center">give weapon_glock18 — выдача пистолета Glock-18</p>
+     <p align="center">give weapon_deagle — выдача пистолета Desert Eagle</p>
+     <p align="center">give weapon_cz75a — выдача автоматического пистолета CZ75-Auto</p>
+     <p align="center">give weapon_tec9 — выдача полуавтоматического пистолета Tec-9</p>
+     <p align="center">give weapon_taser — выдача электрошокера Zeus</p>
+     <h3 align="center">Пистолеты-пулемёты</h3>
+     <p align="center">give weapon_p90 — выдача пистолета-пулемёта P90</p>
+     <p align="center">give weapon_ump45 — выдача пистолета-пулемёта UMP-45</p>
+     <p align="center">give weapon_mac10 — выдача пистолета-пулёмёта MAC-10</p>
+     <h3 align="center">Дробовики</h3>
+     <p align="center">give weapon_xm1014 — выдача дробовика XM1014</p>
+     <p align="center">give weapon_nova — выдача дробовика Nova</p>
+     <p align="center">give weapon_sawedoff — выдача обреза Sawed-Off</p>
+     <h3 align="center">Пулемёты</h3>
+     <p align="center">give weapon_m249 — выдача пулемёта M249</p>
+     <p align="center">give weapon_negev — выдача пулемёта Negev</p>
+     <h3 align="center">Ножи</h3>
+     <p align="center">give weapon_knife — выпадание обычного ножа</p>
+     <p align="center">give weapon_knifegg — выпадание золотого ножа</p>
+     <h3 align="center">Гранаты</h3>
+     <p align="center">give weapon_hegrenade — выдача осколочной гранаты</p>
+     <p align="center">give weapon_smokegrenade — выдача дымовой гранаты</p>
+     <p align="center">give weapon_flashbang — выдача световой гранаты</p>
+     <p align="center">give weapon_molotov — выдача коктейля Молотова</p>
+     <p align="center">give weapon_incgrenade — выдача зажигательной гранаты</p>
+     <p align="center">give weapon_decoy — выдача ложной гранаты</p>
+     <p align="center">ammo_grenade_limit_default 30 — изменяет стандартный лимит гранат на 30</p>
+     <p align="center">ammo_grenade_limit_flashbang 30 — возможность выдать 30 световых гранат одновременно</p>
+     <p align="center">ammo_grenade_limit_total 30 — разрешает покупку 30 гранат</p>
+     <p align="center">sv_grenade_trajectory 1 — показывает траекторию полёта гранаты</p>
+     <h2 align="center"><a name="abcde">Команды, на создание пропов(sv_cheats 1)</h2>
+     <h5 align="center"><a href="#top" class="button8">"Наверх&#8657;"</a></h5>
+     <p align="center"><img src="C:\\Users\IT-Квантум\My\props.png" weight="1280" height="720" alt=""class="scale"></p>
+     <p align="center">prop_dynamic_create \props_unique\atm01.mdl — Банкомат</p>
+     <p align="center">prop_physics_create \props\cs_militia\axe.mdl — Топор</p>
+     <p align="center">prop_physics_create \props\cs_italy\bananna_bunch.mdl — Банан</p>
+     <p align="center">prop_dynamic_create \props\de_dust\dust_food_crates_56.mdl — Ящик с едой</p>
+     <p align="center">prop_dynamic_create \props\props_gameplay\capture_flag.mdl — Флаг</p>
+     <p align="center">prop_dynamic_create \props\cs_office\file_box.mdl — Коробка с бумагами</p>
+     <p align="center">prop_dynamic_create \props\props_crates\wooden_crate_64x64.mdl — Деревянный ящик</p>
+     <p align="center">prop_physics_create \props_interiors\lamp_floor.mdl — Лампа 1</p>
+     <p align="center">prop_physics_create \props_interiors\lamp_table02.mdl — Лампа 2</p>
+     <p align="center">prop_dynamic_create \props\cs_office\computer_keyboard.mdl — Клавиатура</p>
+     <p align="center">prop_physics_create \props_junk\watermelon01.mdl — Арбуз</p>
+     <p align="center">prop_physics_create \props\cs_assault\money.mdl — Деньги</p>
+     <p align="center">prop_physics_create \props\cs_office\computer_mouse.mdl — Компьютерная мышь</p>
+     <p align="center">prop_physics_create \props_junk\garbage_coffeemug001a.mdl — Кружка</p>
+     <p align="center">prop_physics_create \props\cs_italy\orange.mdl — Апельсин</p>
+     <p align="center">prop_physics_create \props\cs_office\paper_towels.mdl — Рулон бумаги</p>
+     <p align="center">prop_physics_create \props\cs_office\paper_towels.mdl — Системный блок</p>
+     <p align="center">prop_physics_create \props\cs_office\phone.mdl — Телефон</p>
+     <p align="center">prop_dynamic_create \pigeon.mdl — Птица 1</p>
+     <p align="center">prop_dynamic_create \seagull.mdl — Птица 2</p>
+     <p align="center">prop_dynamic_create \props_pipes\concrete_pipe001b.mdl — Труба</p>
+     <p align="center">prop_physics_create \props_foliage\flower_barrel.mdl — Большой горшок с цветами</p>
+     <p align="center">prop_dynamic_create \player\holiday\santahat.mdl — Голова снеговика</p>
+     <p align="center">prop_dynamic_create \props\cs_office\snowman_body.mdl — Снеговик</p>
+     <p align="center">prop_physics_create \props_junk\popcan01a.mdl — Содовая</p>
+     <p align="center">prop_dynamic_create \props_signs\sign_street_02.mdl — Дорожный знак</p>
+     <p align="center">prop_dynamic_create \props\cs_militia\toilet.mdl — Туалет</p>
+     <p align="center">prop_physics_create \props_street\trashbin01.mdl — Мусорный бак</p>
+     <p align="center">prop_dynamic_create \props_foliage\mall_tree_medium01.mdl — Дерево 1</p>
+     <p align="center">prop_dynamic_create \props\de_inferno\tree_large.mdl — Дерево 2</p>
+     <p align="center">prop_dynamic_create \props_foliage\urban_streettree01_medium.mdl — Дерево 3</p>
+     <p align="center">prop_dynamic_create \props_foliage\tree_palm_dust01.mdl — Пальма</p>
+     <p align="center">prop_physics_create \props\cs_office\tv_plasma.mdl — Телевизор</p>
+     <p align="center">prop_dynamic_create /props/cs_office/Vending_machine.mdl — Автомат с напитками</p>
+     <p align="center">prop_dynamic_create \props\cs_office\computer.mdl — Компьютер</p>
+     <p align="center">prop_dynamic_create \props\cs_office\microwave.mdl — Микроволновка</p>
+     <p align="center">prop_dynamic_create \props\cs_office\sofa.mdl — Диван</p>
+     <p align="center">prop_dynamic_create \props\de_aztec\aztec_danger_sign.mdl — Знак опасности</p>
+     <p align="center">prop_dynamic_create \props\de_aztec\aztec_block.mdl — Каменный блок</p>
+     <p align="center">prop_dynamic_create /props/de_dust/stoneblock01a.mdl — Каменные блоки 1</p>
+     <p align="center">prop_dynamic_create /props/de_dust/stoneblocks48.mdl — Каменные блоки 2</p>
+     <p align="center">prop_dynamic_create \props\de_cbble\pine_a\pine_a.mdl — Ёлка</p>
+     <p align="center">prop_dynamic_create \props\de_dust\dust_metal_crate.mdl — Металлический ящик</p>
+     <p align="center">prop_dynamic_create \props\de_nuke\crate_extralarge.mdl — Большой деревянный ящик</p>
+     <p align="center">prop_dynamic_create \props\de_nuke\fuel_cask.mdl — Топливная цистерна</p>
+     <p align="center">prop_dynamic_create \props\de_overpass\playground_entrance.mdl — "Детская площадка"</p>
+     <p align="center">prop_dynamic_create \props\de_vertigo\barrel_group_tintable_01.mdl — Бочки</p>
+     <p align="center">prop_dynamic_create \props\de_vertigo\cementmixer.mdl — Бетономешалка</p>
+     <p align="center">prop_dynamic_create \props\crates\weapon_crate_a.mdl — Оружейный кейс</p>
+     <h3 align="center">Entity</h3>
+     <p align="center"><img src="C:\\Users\IT-Квантум\My\chicken.jpg" weight="1280" height="720" alt=""class="scale"></p>
+     <p align="center">ent_create chicken — Курица</p>
+     <p align="center">ent_create env_explosion; ent_fire env_explosion Explode — Взрыв</p>
+     <p align="center">ent_create env_spark; ent_fire env_spark StartSpark — Искры (чтобы убрать - ent_fire env_spark kill)</p>
+     <p align="center">ent_create env_splash; ent_fire env_splash Splash; ent_fire env_splash kill — Всплеск воды</p>
+     <p align="center">ent_create flashbang_projectile — Световая граната</p>
+     <p align="center">ent_create hostage_entity — Заложник</p>
+     <h3 align="center">Пропы со значками и медалями</h3>
+     <p align="center"><img src="C:\\Users\IT-Квантум\My\Medali.png" weight="600" height="600" alt=""class="scale"></p>
+     <p align="center">prop_dynamic_create \inventory_items\collectible_pin_dust2.mdl — Значок Dust 2</p>
+     <p align="center">prop_dynamic_create \inventory_items\collectible_pin_guardian.mdl — Значок Guardian</p>
+     <p align="center">prop_dynamic_create \inventory_items\collectible_pin_guardianelite.mdl — Значок Guardian Elite</p>
+     <p align="center">prop_dynamic_create \inventory_items\collectible_pin_inferno.mdl — Значок Inferno</p>
+     <p align="center">prop_dynamic_create \inventory_items\collectible_pin_italy.mdl — Значок Italy</p>
+     <p align="center">prop_dynamic_create \inventory_items\collectible_pin_militia.mdl — Значок Militia</p>
+     <p align="center">prop_dynamic_create \inventory_items\collectible_pin_mirage.mdl — Значок Mirage</p>
+     <p align="center">prop_dynamic_create \inventory_items\collectible_pin_nuke.mdl — Значок Nuke</p>
+     <p align="center">prop_dynamic_create \inventory_items\collectible_pin_victory.mdl — Значок Победы</p>
+     <p align="center">prop_dynamic_create \inventory_items\collectible_pin_train.mdl — Значок Train</p>
+     <p align="center">prop_dynamic_create \inventory_items\collectible_pin_tactics.mdl — Значок Тактика</p>
+     <p align="center">prop_dynamic_create \inventory_items\cologne_prediction_gold.mdl — Прогноз Команд Кёльн</p>
+     <p align="center">prop_dynamic_create \inventory_items\cologne_trophy_champion.mdl — Кёльн Чемпион</p>
+     <p align="center">prop_dynamic_create \inventory_items\dhw_2014_champion.mdl — Dreamhack Чемпион</p>
+     <p align="center">prop_dynamic_create \inventory_items\dhw_2014_pickem_gold.mdl — Dreamhack Прогноз</p>
+     <p align="center">prop_dynamic_create \inventory_items\dreamhack_trophy_champion.mdl — Dreamhack Чемпион</p>
+     <p align="center">prop_dynamic_create \inventory_items\katowice2015_trophy_champion.mdl — Катовице Чемпион</p>
+     <p align="center">prop_dynamic_create \inventory_items\katowice_trophy_champion.mdl — Катовице 14 Чемпион</p>
+     <p align="center">prop_dynamic_create \inventory_items\kat_2015_pickem_gold.mdl — Катовице 2015 Прогнозы</p>
+     <p align="center">prop_dynamic_create \inventory_items\5_year_coin.mdl — Монета 5 Летний Ветеран</p>
+     <p align="center">prop_dynamic_create \inventory_items\bravo_gold_01.mdl — Золотая Монета Операции Браво</p>
+     <p align="center">prop_dynamic_create \inventory_items\breakout_gold_01.mdl — Золотая Монета Операции Прорыв</p>
+     <p align="center">prop_dynamic_create \inventory_items\cologne_trophy_champion.mdl — Трофей ESL</p>
+     <h2 align="center"><a name="abcdef">Голос и звук(sv_cheats 0)</h2>
+     <h5 align="center"><a href="#top" class="button8">"Наверх&#8657;"</a></h5>
+     <p align="center"><img src="C:\\Users\IT-Квантум\My\sound.jpg" weight="600" height="600" alt=""class="scale"></p>
+     <p align="center">voice_enable "1" — Включить Голосовой чат.</p>
+     <p align="center">voice_forcemicrecord "1" — Включить Запись Микрофона.</p>
+     <p align="center">oice_loopback "0" — Выключить Воспроизведение Голоса На Ряду С Другими Игроками.</p>
+     <p align="center">voice_modenable "1" — Голосовой Чат В Моде.</p>
+     <p align="center">voice_recordtofile "0" — Отключить Микрофоную Запись В Файл.</p>
+     <p align="center">voice_scale "1" — Уровень Голоса Для Всех Игроков.</p>
+     <p align="center">volume "1.0" — Громкость Общего Звука.</p>
+     <h2 align="center"><a name="abcdefg">Параметры для запуска игры в Steam</h2>
+     <h5 align="center"><a href="#top" class="button8">"Наверх&#8657;"</a></h5>
+     <p align="center"><img src="C:\\Users\IT-Квантум\My\Zapusk.png" weight="600" height="600" alt=""class="scale"></p>
+     <p align="center">-noforcemaccel — настройки акселерации windows</p>
+     <p align="center">-noforcemspd — настройки скорости мыши</p>
+     <p align="center">-noforcemparms — параметры кнопок мыши windows</p>
+     <p align="center">-noaafonts — отключение сглаживания шрифтов</p>
+     <p align="center">-heapsize 262144 — выделение оперативной памяти 512MB</p>
+     <p align="center">-heapsize 524288 — выделение оперативной памяти 1GB</p>
+     <p align="center">-heapsize 1048576 — выделение оперативной памяти 2GB</p>
+     <p align="center">-full — запуск игры в полноэкранном режиме</p>
+     <p align="center">-window — запуск игры в оконном режиме</p>
+     <p align="center">-noborder — запуск игры в оконном режиме без рамки</p>
+     <p align="center">-low — запуск игры с низким приоритетом</p>
+     <p align="center">-high — запуск игры с высоким приоритетом</p>
+     <p align="center">-w 640 -h 480 — запуск игры с разрешением экрана 640x480 пикселей</p>
+     <p align="center">-w 800 -h 600 — запуск игры с разрешением экрана 800x600 пикселей</p>
+     <p align="center">-w 1024 -h 768 — запуск игры с разрешением экрана 1024x768 пикселей</p>
+     <p align="center">-freq 100 — изменение Герц для мониторов HL1 Engine</p>
+     <p align="center">-refresh 100 — изменение Герц для мониторов HL2 Engine</p>
+     <p align="center">-nojoy — отключение поддержки джойстика</p>
+     <p align="center">-noipx — отключение протокола LAN</p>
+     <p align="center">-noip — удаление IP-адреса без возможности подключения к серверам</p>
+     <p align="center">-nosound — принудительно отключает звук в игре</p>
+     <p align="center">-nosync — принудительно отключает вертикальную синхронизацию</p>
+     <p align="center">-dxlevel 90 — использование DirectX 9</p>
+     <p align="center">-dxlevel 81 — использование DirectX 8.1</p>
+     <p align="center">-console — получение доступа к консоли разработчика</p>
+     <p align="center">-dev — включение мода для разработчиков</p>
+     <p align="center">-zone # — выделение большего объема памяти файлам, таким как autoexec.cfg</p>
+     <p align="center">-safe — запуск игры в безопасном режиме и отключения аудио</p>
+     <p align="center">-autoconfig — восстановление стандартных настроек видео-параметров</p>
+     <p align="center">-condebug — сохранение всех логов консоли в текстовом файле console.log</p>
+     <p align="center">-nocrashdialog — отмена отображения некоторых ошибок</p>
+     <p align="center">-novid — удаление вступительного видео Valve</p>
+     <p align="center">-toconsole — запуск движка игры в консоли, если карта не определена</p>
+     <p align="center">+a +r_mmx 1 — запуск игры с консольной командой или cvar-командой в командной строке</p>
+     <p align="center">+exec name.cfg — подключение конфига с именем "config.cfg"</p>
+     <h2 align="center"><a name="abcdefgh">"Прицел(sv_cheats 0)</h2>
+     <h5 align="center"><a href="#top" class="button8">"Наверх&#8657;"</a></h5>
+     <p align="center"><img src="C:\\Users\IT-Квантум\My\cross.jpg" weight="600" height="600" alt=""class="scale"></p>
+     <h3 align="center">Стили</h3>
+     <p align="center">cl_crosshairstyle 0 — по умолчанию (динамический) прицел</p>
+     <p align="center">cl_crosshairstyle 1 — по умолчанию (статический) прицел</p>
+     <p align="center">cl_crosshairstyle 2 — классический прицел</p>
+     <p align="center">cl_crosshairstyle 3 — классический (динамический) прицел</p>
+     <p align="center">cl_crosshairstyle 4 — классический (статический) прицел</p>
+     <h3 align="center">Цвета</h3>
+     <p align="center">cl_crosshaircolor 0 — красный цвет прицела</p>
+     <p align="center">cl_crosshaircolor 1 — зеленый цвет прицела</p>
+     <p align="center">cl_crosshaircolor 2 — желтый цвет прицела</p>
+     <p align="center">cl_crosshaircolor 3 — синий цвет прицела</p>
+     <p align="center">cl_crosshaircolor 4 — голубой цвет прицела</p>
+     <h3 align="center">Точка в прицеле</h3>
+     <p align="center">cl_crosshairdot 0 — точки в прицеле нет</p>
+     <p align="center">cl_crosshairdot 1 — точка в прицеле есть</p>
+     <h3 align="center">Обводка прицела:</h3>
+     <p align="center">cl_crosshair_drawoutline 0 — прицел без обводки</p>
+     <p align="center">cl_crosshair_drawoutline 1 — прицел с обводкой</p>
+     <h3 align="center">Прозрачность</h3>
+     <p align="center">cl_crosshairalpha 0 — прицел полностью прозрачный</p>
+     <p align="center">cl_crosshairalpha 127 — прицел полупрозрачен</p>
+     <p align="center">cl_crosshairalpha 255 — прицел непрозрачен</p>
+     <p align="center">cl_crosshairusealpha 0 — режим прозрачности прицела отключен</p>
+     <p align="center">cl_crosshairusealpha 1 — режим прозрачности прицела включен</p>
+     <h3 align="center">Размер</h3>
+     <p align="center">cl_crosshairsize 0 — маленький прицел(в соотношении со стандартным)</p>
+     <p align="center">cl_crosshairsize 5 — средний прицел(в соотношении со стандартным)</p>
+     <p align="center">cl_crosshairsize 10 — большой прицел(в соотношении со стандартным)</p>
+     <h3 align="center">Толщина линий</h3>
+     <p align="center">cl_crosshairthickness 0 — тонкая линия прицела</p>
+     <p align="center">cl_crosshairthickness 1 — средняя линия прицела</p>
+     <p align="center">cl_crosshairthickness 2 — большая линия прицела</p>
+     <p align="center">cl_crosshairthickness 3 — огромная линия прицела</p>
+     <h2 align="center"><a name="abcdefghj">Фан?(sv_cheats 1)</h2>
+     <h5 align="center"><a href="#top" class="button8">"Наверх&#8657;"</a></h5>
+     <p align="center"><img src="C:\\Users\IT-Квантум\My\fun.png" weight="600" height="600" alt=""class="scale"></p>
+     <p align="center">sv_cheats 1 — команда, позволяющая вводить читы</p>
+     <p align="center">sv_cheats 0 — команда, убирающая ввод читов</p>
+     <p align="center">god — включает режим бога, бессмертие.</p>
+     <p align="center">noclip — даёт возможность летать по карте и через стены, повторный ввод команды отменяет полёт.</p>
+     <p align="center">mat_wireframe 1 — эта команда, поможет вам видеть контур всех стен, видеть стены насквозь.</p>
+     <p align="center">mat_wireframe 0 — эта команда, отключит просмотр контур стен.</p>
+     <p align="center">ent_fire! self addoutput "modelindex 2" --- невидимость</p>
+     <p align="center">_drawothermodels 2 — позволяет видеть игроков через стены</p>
+     <p align="center">r_drawothermodels 1 — отключает возможность видеть игроков через стены</p>
+     <p align="center">sv_showimpacts 1 — цветные следы от пуль на стенах</p>
+     <p align="center">thirdperson — вид от третьего лица</p>
+     <p align="center">firstperson — возвращает к нормальному виду от первого лица</p>
+     <p align="center">host_timescale 2 — ускоряет ход времени на сервере</p>
+     <p align="center">host_timescale 1 — устанавливает стандартное значение времени</p>
+     <p align="center">mp_warmup_end — заканчивает разминку</p>
+     <p align="center">mp_maxmoney 100000 — максимальное количество денег, устанавливаем количество денег в раунде</p>
+     <p align="center">mp_startmoney 900 — давать денег в 1 раунде</p>
+     <p align="center">mp_afterroundmoney 800 — стартовые деньги</p>
+     <p align="center">host_timescale 0.5 — Значение 0,5 замедляет время игры, значение 1 нормальное время, 2 ускоряет</p>
+     <p align="center">mp_friendlyfire 0 — выключить огонь по игрокам своей команды</p>
+     <p align="center">mp_limitteams 32 — лимит игроков в команде</p>
+     <p align="center">mp_autoteambalance 1 — автобаланс игроков в команде, при вводе нуля выключается</p>
+     <p align="center">mp_solid_teammates 1 — игроки команды проходят сквозь своих</p>
+     <p align="center">mp_roundtime 2 — время раунда</p>
+     <p align="center">mp_limitteams 2 — разница в игроках команд</p>
+     <p align="center">mp_free_armor 0 — давать ли бесплатную броню</p>
+     <p align="center">mp_maxrounds 30 — максимальное количество раундов для выигрыша</p>
+     <p align="center">mp_forcecamera 0 — наблюдать за всеми на карте</p>
+     <p align="center">mp_buytime 90 — установка времени на закуп в секундах</p>
+     <p align="center">mp_timelimit 15 — ограничение по времени</p>
+     <p align="center">mp_restartgame 1 — перезапустить матч</p>
+     <p align="center">cl_righthand 1 — Оружие в правой рук. Значение «0» в левой</p>
+     <p align="center">mp_c4timer 35 — устанавливаем время взрыва бомбы в секундах после установки</p>
+     <h5 align="center"><a href="#top" class="button8">"Наверх&#8657;"</a></h5>
+     <h2 align="center">На этом конец, спасибо за посещение!</h2>
+     <p align="center"><img src="C:\\Users\IT-Квантум\My\end.jpg" weight="600" height="600" alt=""class="scale"></p>
+     <h4 align="center">Создатель Ишин Кирилл(DraQu)</h4>
+     </form>
+    </body>
+
